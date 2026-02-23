@@ -5,13 +5,13 @@
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
-|NOME|CARGO|E-MAIL|
-|:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|NOME|E-MAIL|
+|:---|:---|
+|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
+|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
+|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
+|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
+|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
 
 
 # Sumário
@@ -23,7 +23,6 @@
   * [USUÁRIOS DO SISTEMA](#usuários-do-sistema)
   * [ABRANGÊNCIA E SISTEMAS SIMILARES](#abrangência-e-sistemas-similares)
   * [SUPOSIÇÕES E DEPENDÊNCIAS](#suposições-e-dependências)
-* [METODOLOGIA ADOTADA NO DESENVOLVIMENTO](#metodologia-adotada-no-desenvolvimento)
 * [REQUISITOS DO SOFTWARE](#requisitos-do-software)
   * [REQUISITOS FUNCIONAIS](#requisitos-funcionais)
   * [REQUISITOS NÃO FUNCIONAIS](#requisitos-não-funcionais)
@@ -31,15 +30,13 @@
 * [DIAGRAMA DE CLASSES](#diagrama-de-classes)
 * [REFERÊNCIAS](#referências)
 
-
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
 | NOME DO PROJETO | Fibonacci Management System |
-| GERENTE DO PROJETO | Wagner Ferreira |
 | PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
 | BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
-| INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
+| INÍCIO E TÉRMINO PREVISTOS | 01/02/2026 - 07/12/2026 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
@@ -63,11 +60,6 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 |**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
 |**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
 
-
-[ [INÍCIO](#fibonacci-management-system) ]
-
-# Metodologia Adotada no Desenvolvimento
-
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Requisitos do Software
@@ -83,7 +75,6 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
 |RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
 
-
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
 
@@ -92,9 +83,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
 |RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
 
-
 [ [INÍCIO](#fibonacci-management-system) ]
-
 
 # Prototipagem
 
