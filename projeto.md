@@ -35,7 +35,7 @@
 |:---|:---|
 | NOME DO PROJETO | Fibonacci Management System |
 | PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |* Melhor acompanhamento pedagógico;<br/>* Redução da evasão escolar;<br/>* Aumento do número de matrículas;<br/>* Redução da inadimplência escolar;<br/>* Automatização dos processos financeiross|
+| BENEFÍCIOS ESPERADOS |- Melhor acompanhamento pedagógico;<br/>- Redução da evasão escolar;<br/>- Aumento do número de matrículas;<br/>- Redução da inadimplência escolar;<br/>- Automatização dos processos financeiross|
 | INÍCIO E TÉRMINO PREVISTOS | 01/02/2026 - 07/12/2026 |
 
 [ [INÍCIO](#fibonacci-management-system) ]
