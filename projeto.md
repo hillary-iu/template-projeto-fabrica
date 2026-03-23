@@ -7,8 +7,8 @@
 ## *Stakeholders*
 |NOME|E-MAIL|
 |:---|:---|
-|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
+|Marcela Rocha Dias |marcelardias@hotmail.com|
+||wagner.ferreira@ifro.edu.br|
 |Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
 |Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
 |Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
