@@ -1,6 +1,6 @@
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *Pet shop e clínica system*
 
 # PROJETO DE SOFTWARE
 
@@ -8,10 +8,10 @@
 |NOME|E-MAIL|
 |:---|:---|
 |Marcela Rocha Dias |marcelardias@hotmail.com|
-||wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
-|Wagner da Silva Ferreira Filho|wagner.ferreira@ifro.edu.br|
+|Mariany Myllena Theodoro Rasche|myllyna.rasche@estudante.ifro.edu.br|
+|Hillary Eduarda França Amaral Souza|hillary.eduarda@estudante.ifro.edu.br|
+|Kemilly Vitória Rodrigues Souza|rodrigues.kemilly@estudante.ifro.edu.br|
+|Anna Victória Reis Marques|annavictoriarmarques13@gmail.com|
 
 
 # Sumário
@@ -33,12 +33,12 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-| NOME DO PROJETO | Fibonacci Management System |
-| PRINCIPAL OBJETIVO | Auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino. |
-| BENEFÍCIOS ESPERADOS |- Melhor acompanhamento pedagógico;<br/>- Redução da evasão escolar;<br/>- Aumento do número de matrículas;<br/>- Redução da inadimplência escolar;<br/>- Automatização dos processos financeiross|
+| NOME DO PROJETO| |
+| PRINCIPAL OBJETIVO | . |
+| BENEFÍCIOS ESPERADOS |- Aumento de novos clientes e agendamento 24h no site;<br/>- Viabilizar o acesso do cliente á clínica, a loja e ao agendamento de consulta;<br/>- Proporciona ao cliente acesso virtual a informações sobre seu animal como laudos médicos, exames e outros|
 | INÍCIO E TÉRMINO PREVISTOS | 01/02/2026 - 07/12/2026 |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Pet shop e clínica system) ]
 
 # INTRODUÇÃO
 
@@ -46,7 +46,7 @@
 
 Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Pet shop e clínica system) ]
 
 # DESCRIÇÃO GERAL
 
@@ -60,7 +60,7 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 |**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
 |**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Pet shop e clínica system) ]
 
 # Requisitos do Software
 
@@ -83,7 +83,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
 |RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Pet shop e clínica system) ]
 
 # Prototipagem
 
@@ -91,7 +91,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ![Imagem do Protótipo](/img/home.png)
 
-[ [INÍCIO](#fibonacci-management-system) ]
+[ [INÍCIO](#Pet shop e clínica system) ]
 
 
 # Diagrama de Classes
