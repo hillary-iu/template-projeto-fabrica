@@ -7,11 +7,19 @@
 ## *Stakeholders*
 |NOME|E-MAIL|
 |:---|:---|
+<<<<<<< HEAD
+|Hillary Eduarda França Amaral Souza|hillary.eduarda@estudante.ifro.edu.br|
+|Kemilly Vitória Rodrigues Souza|rodrigues.kemilly@estudante.ifro.edu.br|
+|mariany myllena theodoro rasche|myllyna.rasche@estudante.ifro.edu.br|
+|Marcela Rocha Dias|m.anna@estudante.ifro.edu.br|
+|Anna Victória Reis Marques|annavictoriarmarques13@gmail.com|
+=======
 |Marcela Rocha Dias |marcelardias@hotmail.com|
 |Mariany Myllena Theodoro Rasche|myllyna.rasche@estudante.ifro.edu.br|
 |Hillary Eduarda França Amaral Souza|hillary.eduarda@estudante.ifro.edu.br|
 |Kemilly Vitória Rodrigues Souza|rodrigues.kemilly@estudante.ifro.edu.br|
 |Anna Victória Reis Marques|annavictoriarmarques13@gmail.com|
+>>>>>>> 875e05bbcd934fb89d29d2e7c4bdb6c6c9be1aab
 
 
 # Sumário
@@ -33,9 +41,15 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
+<<<<<<< HEAD
+| NOME DO PROJETO | Casa dos Peludos |
+| PRINCIPAL OBJETIVO |  O objetivo principal é facilitar a vida do usuário, eliminando a necessidade de utilizar múltiplas plataformas e oferecendo praticidade, economia de tempo e uma experiência simples e unificada no dia a dia. |
+| BENEFÍCIOS ESPERADOS |- Ajudar a facilidade dos usuarios;<br/>- Redução de tempo;<br/>- Aumento do número de pessoas cadastradas;|
+=======
 | NOME DO PROJETO| |
 | PRINCIPAL OBJETIVO | . |
 | BENEFÍCIOS ESPERADOS |- Aumento de novos clientes e agendamento 24h no site;<br/>- Viabilizar o acesso do cliente á clínica, a loja e ao agendamento de consulta;<br/>- Proporciona ao cliente acesso virtual a informações sobre seu animal como laudos médicos, exames e outros|
+>>>>>>> 875e05bbcd934fb89d29d2e7c4bdb6c6c9be1aab
 | INÍCIO E TÉRMINO PREVISTOS | 01/02/2026 - 07/12/2026 |
 
 [ [INÍCIO](#Pet shop e clínica system) ]
@@ -53,12 +67,9 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
+|**Usuário veterinario:**|so consulta|
 |**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
-|**Coordenador:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
-|**Secretaria:**|Responsáveis pelo cadastramento de disciplinas e turmas, pela alocação de professores e monitores de um curso e matrículas dos alunos|
-|**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
-|**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
+|**vendedor:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
 
 [ [INÍCIO](#Pet shop e clínica system) ]
 
@@ -72,8 +83,9 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
+|RF-001 |Tela Cadastrar usuario | Descreva aqui as informações sobre o requisito |
 |RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+
 
 ## Requisitos Não Funcionais
 A tabela a seguir contém a relação com os Requisitos Não Funcionais identificados, contendo identificador, nome, descrição e prioridade:
@@ -82,6 +94,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |:---|:---|:---|
 |RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
 |RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|
 
 [ [INÍCIO](#Pet shop e clínica system) ]
 
