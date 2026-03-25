@@ -33,15 +33,9 @@
 # RESUMO DO PROJETO
 | ITEM | DESCRIÇÃO|
 |:---|:---|
-
 | NOME DO PROJETO | Casa dos Peludos |
 | PRINCIPAL OBJETIVO |  O objetivo principal é facilitar a vida do usuário, eliminando a necessidade de utilizar múltiplas plataformas e oferecendo praticidade, economia de tempo e uma experiência simples e unificada no dia a dia. |
-| BENEFÍCIOS ESPERADOS |- Ajudar a facilidade dos usuarios;<br/>- Redução de tempo;<br/>- Aumento do número de pessoas cadastradas;|
-
-| NOME DO PROJETO| |
-| PRINCIPAL OBJETIVO | . |
 | BENEFÍCIOS ESPERADOS |- Aumento de novos clientes e agendamento 24h no site;<br/>- Viabilizar o acesso do cliente á clínica, a loja e ao agendamento de consulta;<br/>- Proporciona ao cliente acesso virtual a informações sobre seu animal como laudos médicos, exames e outros|
-
 | INÍCIO E TÉRMINO PREVISTOS | 01/02/2026 - 07/12/2026 |
 
 [ [INÍCIO](#Pet shop e clínica system) ]
@@ -50,7 +44,7 @@
 
 ## PROPÓSITO DESTE DOCUMENTO
 
-Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Fibonacci Management System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
+Este documento destina-se aos clientes, engenheiros, gerentes e demais stakeholders deste projeto. O propósito deste documento é apresentar a descrição dos serviços e funções que o sistema **_Pet Shop System_** deve prover, bem como as suas restrições de operação e propriedades gerais, a fim de ilustrar uma descrição detalhada do sistema para um auxílio durante as etapas de análise, projeto e testes. O documento especifica todos os requisitos funcionais e não funcionais do sistema e contém a prototipagem, além de diagramas UML que foram construídos levando-se em conta as funcionalidades identificadas durante a fase de concepção do sistema.
 
 [ [INÍCIO](#Pet shop e clínica system) ]
 
@@ -59,7 +53,7 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
-|**Usuário veterinario:**|so consulta|
+|**Usuário veterinario:**|apenas consulta|
 |**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
 |**vendedor:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
 
