@@ -6,6 +6,7 @@
 
 ## *Stakeholders*
 |NOME|E-MAIL|
+|:---|:---|
 |Hillary Eduarda França Amaral Souza|hillary.eduarda@estudante.ifro.edu.br|
 |Kemilly Vitória Rodrigues Souza|rodrigues.kemilly@estudante.ifro.edu.br|
 |mariany myllena theodoro rasche|myllyna.rasche@estudante.ifro.edu.br|
