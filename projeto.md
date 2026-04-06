@@ -66,6 +66,9 @@ A especificação dos requisitos deste documento deve seguir as recomendações 
 ## Requisitos Funcionais
 
 A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com as colunas: identificador, nome, descrição e prioridade:
+
+| IDENTIFICADOR | NOME | DESCRIÇÃO |
+|:---|:---|:---|
 |RNF-001 |Tela Cadastrar usuario | Esta tela é responsável por capturar as informações pessoais do novo usuário (tutor). Serve como ponto inicial do cadastro, coletando dados essenciais como nome completo, e-mail, CPF e endereço para criar a conta principal no sistema. |
 |RNF-002 |Tela cadastrar pet|Acessada imediatamente após o cadastro do usuário, esta tela permite que o tutor registre seus pets. Ela possibilita informar a quantidade de animais e cadastrar os detalhes de cada um, como nome, espécie, raça, peso e eventuais condições médicas especiais.|
 |RNF-003 |cadastroServico|
@@ -75,14 +78,9 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RNF-007 |configuraçoes do cliente| Permite que o cliente edite suas informações pessoais e gerencie seus pets cadastrados (adicionar, editar ou remover).|
 |RNF-008 |Relatorio de plano de assinatura| Apresenta os planos de assinatura disponíveis para clientes que desejam contratar um pacote mensal completo, incluindo valores e benefícios.|
 |RNF-009 |Relatorio de Vendas| Gera um relatório mensal com o total de vendas realizadas, a quantidade de atendimentos efetuados e outros indicadores para análise do negócio.|
-
-
 |RNF-010 |Cadatro de agenda se serviço| Esta tela é destinada ao agendamento de serviços. O usuário pode selecionar entre os procedimentos disponíveis (como banho, tosa, hidratação e tratamentos específicos), escolher a data e horário de preferência e confirmar a reserva para os pets previamente cadastrados.|
-
 |RNF-011 |historico|Exibe todo o histórico de agendamentos e pedidos realizados pelo cliente, incluindo serviços já concluídos, cancelados ou em andamento.|
-
 |RNF-012login| 	O aplicativo solicita que o cliente informe seu usuário (e-mail ou nome de cadastro) e senha para confirmar a identidade e conceder acesso ao sistema.|
-
 |RNF-013perfil|Apresenta as informações do usuário, como foto, dados pessoais, endereço, além dos dados dos pets cadastrados.|
 
 
