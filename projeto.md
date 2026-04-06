@@ -80,8 +80,8 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RNF-009 |Relatorio de Vendas| Gera um relatório mensal com o total de vendas realizadas, a quantidade de atendimentos efetuados e outros indicadores para análise do negócio.|
 |RNF-010 |Cadatro de agenda se serviço| Esta tela é destinada ao agendamento de serviços. O usuário pode selecionar entre os procedimentos disponíveis (como banho, tosa, hidratação e tratamentos específicos), escolher a data e horário de preferência e confirmar a reserva para os pets previamente cadastrados.|
 |RNF-011 |historico|Exibe todo o histórico de agendamentos e pedidos realizados pelo cliente, incluindo serviços já concluídos, cancelados ou em andamento.|
-|RNF-012login| 	O aplicativo solicita que o cliente informe seu usuário (e-mail ou nome de cadastro) e senha para confirmar a identidade e conceder acesso ao sistema.|
-|RNF-013perfil|Apresenta as informações do usuário, como foto, dados pessoais, endereço, além dos dados dos pets cadastrados.|
+|RNF-012 |login| 	O aplicativo solicita que o cliente informe seu usuário (e-mail ou nome de cadastro) e senha para confirmar a identidade e conceder acesso ao sistema.|
+|RNF-013| perfil|Apresenta as informações do usuário, como foto, dados pessoais, endereço, além dos dados dos pets cadastrados.|
 
 
 
