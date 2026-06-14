@@ -68,8 +68,7 @@ A especificação dos requisitos deste documento deve seguir as recomendações 
 A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com as colunas: identificador, nome, descrição e prioridade:
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
-|:---|:---|:---|
-
+:---|:---|:---|
 |RF-001 |	Tela Cadastrar Usuário |	Esta tela é responsável por capturar as informações pessoais do novo usuário (tutor). Serve como ponto inicial do cadastro, coletando dados essenciais como nome completo, e-mail, CPF e endereço para criar a conta principal no sistema.|
 |RF-002	|Tela Cadastrar Pet	|Acessada imediatamente após o cadastro do usuário, esta tela permite que o tutor cadastre seus animais de estimação. Ela permite informar a quantidade de animais e cadastrar os detalhes de cada um, como nome, espécie, raça, peso e possíveis condições médicas especiais.|
 |RF-003	|Tela Cadastrar Serviço|	Permite que o gerente cadastre os serviços oferecidos pelo estabelecimento, como banho, tosa e outros, incluindo nome do serviço, descrição, duração estimada e valores praticados.|
