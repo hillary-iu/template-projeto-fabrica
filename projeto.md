@@ -70,17 +70,17 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
 |RF-001 |	Tela Cadastrar Usuário |	Esta tela é responsável por capturar as informações pessoais do novo usuário (tutor). Serve como ponto inicial do cadastro, coletando dados essenciais como nome completo, e-mail, CPF e endereço para criar a conta principal no sistema.|
-|RF-002	|Tela Cadastrar Pet	|Acessada imediatamente após o cadastro do usuário, esta tela permite que o tutor cadastre seus animais de estimação. Ela permite informar a quantidade de animais e cadastrar os detalhes de cada um, como nome, espécie, raça, peso e possíveis condições médicas especiais.|
+|RF-002	|Tela Cadastrar Pet	| Acessada imediatamente após o cadastro do usuário, esta tela permite que o tutor cadastre seus animais de estimação. Ela permite informar a quantidade de animais e cadastrar os detalhes de cada um, como nome, espécie, raça, peso e possíveis condições médicas especiais.|
 |RF-003	|Tela Cadastrar Serviço|	Permite que o gerente cadastre os serviços oferecidos pelo estabelecimento, como banho, tosa e outros, incluindo nome do serviço, descrição, duração estimada e valores praticados.|
-|RF-004 |	Tela Animais Cadastrados	Exibe uma lista de animais cadastrados no sistema, apresentando as informações do pet e os dados do respectivo tutor informado.|
-|RF-005	|Tela Avaliação de Serviço	Permite que o cliente avalie e comente sobre o serviço prestado durante o agendamento do pet.|
-|RF-006	|Tela Configurações do Cliente	Permite que o cliente edite suas informações pessoais e gerencie seus pets cadastrados (adicionar, editar ou remover).|
-|RF-007	|Tela Relatório de Plano de Assinatura	Apresenta os planos de assinatura disponíveis para clientes que desejam contratar um pacote mensal completo, incluindo valores e benefícios.|
-|RF-008	|Tela Relatório de Vendas	Gera um relatório mensal com o total de vendas realizadas, a quantidade de atendimentos efetuados e outros indicadores para análise do negócio.|
-|RF-009	|Tela Cadastro de Agenda de Serviço	Esta tela é destinada ao agendamento de serviços. O usuário pode selecionar entre os procedimentos disponíveis (como banho, tosa, hidratação e tratamentos específicos), escolher a data e horário de preferência e confirmar a reserva para os pets previamente cadastrados.|
-|RF-010	|Tela Histórico	Exibe todo o histórico de agendamentos e pedidos realizados pelo cliente, incluindo serviços já concluídos, cancelados ou em andamento.|
-|RF-011	|Tela Login	O aplicativo solicita que o cliente informe seu usuário (e-mail ou nome de cadastro) e senha para confirmar a identidade e conceder acesso ao sistema.|
-|RF-012	|Tela Perfil	Permite que o usuário visualize e edite suas informações pessoais, como nome, e-mail, senha, endereço, foto de perfil e preferências de contato.|
+|RF-004 |	Tela Animais Cadastrados|	Exibe uma lista de animais cadastrados no sistema, apresentando as informações do pet e os dados do respectivo tutor informado.|
+|RF-005	|Tela Avaliação de Serviço|	Permite que o cliente avalie e comente sobre o serviço prestado durante o agendamento do pet.|
+|RF-006	|Tela Configurações do Cliente|	Permite que o cliente edite suas informações pessoais e gerencie seus pets cadastrados (adicionar, editar ou remover).|
+|RF-007	|Tela Relatório de Plano de Assinatura|	Apresenta os planos de assinatura disponíveis para clientes que desejam contratar um pacote mensal completo, incluindo valores e benefícios.|
+|RF-008	|Tela Relatório de Vendas|	Gera um relatório mensal com o total de vendas realizadas, a quantidade de atendimentos efetuados e outros indicadores para análise do negócio.|
+|RF-009	|Tela Cadastro de Agenda de Serviço|	Esta tela é destinada ao agendamento de serviços. O usuário pode selecionar entre os procedimentos disponíveis (como banho, tosa, hidratação e tratamentos específicos), escolher a data e horário de preferência e confirmar a reserva para os pets previamente cadastrados.|
+|RF-010	|Tela Histórico|	Exibe todo o histórico de agendamentos e pedidos realizados pelo cliente, incluindo serviços já concluídos, cancelados ou em andamento.|
+|RF-011	|Tela Login|	O aplicativo solicita que o cliente informe seu usuário (e-mail ou nome de cadastro) e senha para confirmar a identidade e conceder acesso ao sistema.|
+|RF-012	|Tela Perfil|	Permite que o usuário visualize e edite suas informações pessoais, como nome, e-mail, senha, endereço, foto de perfil e preferências de contato.|
 
 
 ## Requisitos Não Funcionais
