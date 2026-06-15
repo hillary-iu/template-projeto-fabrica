@@ -79,7 +79,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-08	|Tela Login|	O aplicativo solicita que o cliente informe seu usuário (e-mail ou nome de cadastro) e senha para confirmar a identidade e conceder acesso ao sistema.|
 |RF-09	|Tela Perfil|	Permite que o usuário visualize e edite suas informações pessoais, como nome, e-mail, senha, endereço, foto de perfil e preferências de contato.|
 |RF-010	|Tela selecionar serviço|	Permite que o usuário visualize e selecione os serviços disponíveis para o animal escolhido.|
-|RF-011	|Tela status de serviço|	Expõe ao usuário o adanmento de seu agendamento (confirmado, Processando ou Recusado).|
+|RF-011	|Tela status de agendamento|	Expõe ao usuário o adamento de seu agendamento (confirmado, Processando ou Recusado).|
 
 
 
