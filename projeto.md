@@ -80,8 +80,8 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-09	|Tela Perfil|	Permite que o usuário visualize e edite suas informações pessoais, como nome, e-mail, senha, endereço, foto de perfil e preferências de contato.|
 |RF-10	|Tela selecionar serviço|	O usuário pode visualizar e selecionar entre os procedimentos disponíveis (como banho, tosa, hidratação e tratamentos específicos) para o animal escolhido.|
 |RF-11	|Tela status de agendamento|	Expõe ao usuário o andamento de seu agendamento (confirmado, Processando ou Recusado).|
-|RF-12	|Tela cadastro de serviço|	esta tela aperece apenas para funcionário, caso haja a necessidade de adicionar ou excluir algum serviço do catálogo da clínica  .|
-1|RF-13	|Tela lista de agendamentos diários|	Apresenta uma lista visual e cronológica de todos os pets agendados para o funcionário.|
+|RF-12	|Tela cadastro de serviço|	Esta tela aperece apenas para funcionário, caso haja a necessidade de adicionar ou excluir algum serviço do catálogo da clínica  .|
+|RF-13	|Tela lista de agendamentos diários|	Apresenta uma lista visual e cronológica de todos os pets agendados para o funcionário.|
 |RF-14	|Excluir conta|	Permite que o usuário exclua sua conta do sistema permanentemente.|
 |RF-15	|Tela cadastrar funcionário|	apenas o gerente tem acesso e é usada para cadastrar novos funcionários para que o sitema passe a enviar serviços para aquele associado.|
 
