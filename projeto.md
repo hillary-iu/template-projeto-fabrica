@@ -81,7 +81,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-10	| Tela Selecionar Serviço|	O usuário pode visualizar e selecionar entre os procedimentos disponíveis (como banho, tosa, hidratação e tratamentos específicos) para o animal escolhido.|
 |RF-11	| Tela Status de Agendamento|	Expõe ao usuário o andamento de seu agendamento (confirmado, Processando ou Recusado).|
 |RF-12	| Tela Cadastro de Serviço|	Permite que o gerente cadastre os serviços oferecidos pelo estabelescimento, como banho tosa e outros, incluindo o nome do serviço, descrição duração estimada e valor.|
-|RF-13	| Mostar Funcionário|	 Este campo aparecerá no histórico de agendamentos do pet para mostrar qual profissional executou o atendimento daquele serviço.|	
+|RF-13	| Listar Funcionário|	 Este campo aparecerá no histórico de agendamentos do pet para mostrar qual profissional executou o atendimento daquele serviço.|	
 |RF-14	| Excluir Conta|	Permite que o usuário exclua sua conta do sistema permanentemente.|
 |RF-15	| Tela Cadastrar Funcionário|	Permite que o gerente cadastre novos funcionários para que o sitema passe a enviar serviços para aquele associado.|
 |RF-16	| Selecionar Profissional|	Permite que o usuário escolha qual profissional realizará o atendimento apenas em serviços especializados como consultas médicas.|
