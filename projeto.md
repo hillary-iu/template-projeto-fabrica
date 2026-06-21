@@ -88,6 +88,7 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-17	| Excluir Funcionário|	Permite que o gerente exclua permanentemente o fúncionário escolhido em caso de demição entre outros.|
 |RF-18	| Excluir Serviço|	Permite que o gerente exclua o serviço selecionado.|
 |RF-19	| Excluir Pet|	Permite que o usuário exclua o animal de estimação selecionado.|
+|RF-20  | Tela Listar Funcionários| Permite que o gerente visualize uma lista com todos os funcionários cadastrados no sistema, apresentando informações básicas como nome, cargo/especialidade e status atual.|
 
 
 
