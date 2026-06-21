@@ -70,21 +70,26 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
 |RF-001 |	Tela Cadastrar Usuário |	Esta tela é responsável por capturar as informações pessoais do novo usuário (tutor). Serve como ponto inicial do cadastro, coletando dados essenciais como nome completo, e-mail, CPF e endereço para criar a conta principal no sistema.|
-|RF-002	|Tela Cadastrar Pet	| Acessada imediatamente após o cadastro do usuário, esta tela permite que o tutor cadastre seus animais de estimação. Ela permite informar a quantidade de animais e cadastrar os detalhes de cada um, como nome, espécie, raça, peso e possíveis condições médicas especiais.|
+|RF-002	| Tela Cadastrar Pet	| Acessada imediatamente após o cadastro do usuário, esta tela permite que o tutor cadastre seus animais de estimação. Ela permite informar a quantidade de animais e cadastrar os detalhes de cada um, como nome, espécie, raça, peso e possíveis condições médicas especiais.|
 |RF-003 |	Tela Animais Cadastrados|	Exibe uma lista de animais cadastrados no sistema, apresentando as informações do pet e os dados do respectivo tutor informado.|
 |RF-004	|Tela Avaliação de Serviço|	Permite que o cliente avalie e comente sobre o serviço prestado durante o agendamento do pet.|
-|RF-005	|Tela Relatório de Plano de Assinatura|	Apresenta os planos de assinatura disponíveis para clientes que desejam contratar um pacote completo, incluindo valores e benefícios.|
-|RF-006|Tela de Agendamento de Serviço|	Esta tela é destinada ao agendamento de serviços. O usuário pode escolher a data e horário de preferência e confirmar a reserva para os pets previamente cadastrados.|
-|RF-07	|Tela Histórico|	Exibe todo o histórico de agendamentos e pedidos realizados pelo cliente, incluindo serviços já concluídos, cancelados ou em andamento.|
-|RF-08	|Tela Login|	O aplicativo solicita que o cliente informe seu usuário (e-mail ou nome de cadastro) e senha para confirmar a identidade e conceder acesso ao sistema.|
-|RF-09	|Tela Perfil|	Permite que o usuário visualize e edite suas informações pessoais, como nome, e-mail, senha, endereço, foto de perfil e preferências de contato.|
-|RF-10	|Tela selecionar serviço|	O usuário pode visualizar e selecionar entre os procedimentos disponíveis (como banho, tosa, hidratação e tratamentos específicos) para o animal escolhido.|
-|RF-11	|Tela status de agendamento|	Expõe ao usuário o andamento de seu agendamento (confirmado, Processando ou Recusado).|
-|RF-12	|Tela cadastro de serviço|	esta tela aperece apenas para gerente, caso haja a necessidade de adicionar ou excluir algum serviço do catálogo da clínica.|
-|RF-13	|Mostar funcionário|	 Este campo aparecerá no histórico de agendamentos do pet para mostrar qual profissional executou o atendimento daquele serviço.|	
-|RF-14	|Excluir conta|	Permite que o usuário exclua sua conta do sistema permanentemente.|
-|RF-15	|Tela cadastrar funcionário|	apenas o gerente tem acesso e é usada para cadastrar novos funcionários para que o sitema passe a enviar serviços para aquele associado.|
-|RF-16	|Selecionar profissional|	Permite que o usuário escolha qual profissional realizará o atendimento apenas em serviços especializados como consultas médicas.|
+|RF-005	| Tela Relatório de Plano de Assinatura|	Apresenta os planos de assinatura disponíveis para clientes que desejam contratar um pacote completo, incluindo valores e benefícios.|
+|RF-006| Tela de Agendamento de Serviço|	Esta tela é destinada ao agendamento de serviços. O usuário pode escolher a data e horário de preferência e confirmar a reserva para os pets previamente cadastrados.|
+|RF-07	| Tela Histórico|	Exibe todo o histórico de agendamentos e pedidos realizados pelo cliente, incluindo serviços já concluídos, cancelados ou em andamento.|
+|RF-08	| Tela Login|	O aplicativo solicita que o cliente informe seu usuário (e-mail ou nome de cadastro) e senha para confirmar a identidade e conceder acesso ao sistema.|
+|RF-09	| Tela Perfil|	Permite que o usuário visualize e edite suas informações pessoais, como nome, e-mail, senha, endereço, foto de perfil e preferências de contato.|
+|RF-10	| Tela Selecionar Serviço|	O usuário pode visualizar e selecionar entre os procedimentos disponíveis (como banho, tosa, hidratação e tratamentos específicos) para o animal escolhido.|
+|RF-11	| Tela Status de Agendamento|	Expõe ao usuário o andamento de seu agendamento (confirmado, Processando ou Recusado).|
+|RF-12	| Tela Cadastro de Serviço|	Permite que o gerente cadastre os serviços oferecidos pelo estabelescimento, como banho tosa e outros, incluindo o nome do serviço, descrição duração estimada e valor.|
+|RF-13	| Mostar Funcionário|	 Este campo aparecerá no histórico de agendamentos do pet para mostrar qual profissional executou o atendimento daquele serviço.|	
+|RF-14	| Excluir Conta|	Permite que o usuário exclua sua conta do sistema permanentemente.|
+|RF-15	| Tela Cadastrar Funcionário|	Permite que o gerente cadastre novos funcionários para que o sitema passe a enviar serviços para aquele associado.|
+|RF-16	| Selecionar Profissional|	Permite que o usuário escolha qual profissional realizará o atendimento apenas em serviços especializados como consultas médicas.|
+|RF-17	| Excluir Funcionário|	Permite que o gerente exclua permanentemente o fúncionário escolhido em caso de demição entre outros.|
+|RF-18	| Excluir Serviço|	Permite que o gerente exclua o serviço selecionado.|
+|RF-19	| Excluir Pet|	Permite que o usuário exclua o animal de estimação selecionado.|
+
+
 
 
 
